@@ -1,0 +1,15 @@
+# Transcripts (contain personal meeting content)
+*.txt
+!requirements.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# uv
+.python-version
+
+# macOS
+.DS_Store
